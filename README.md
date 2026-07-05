@@ -1,10 +1,9 @@
-
+# 💫 About Me:
+Hi, I'm Hareesh 👋<br><br>
 Data Analytics | Data Science | AI & Machine Learning Enthusiast
 
 Passionate about transforming data into actionable insights through analytics, machine learning, and visualization. Continuously learning and building real-world projects with Python, SQL, Power BI, Tableau, and AI technologies.
 
-# 💫 About Me:
-Hi, I'm Hareesh 👋<br><br>
 🎯 Interested in Data Analytics, Data Science, and AI & Machine Learning<br>📊 Building data-driven solutions using Python, SQL, Power BI, Tableau, and Machine Learning<br>📚 Continuously learning and exploring AI, Data Visualization, and Predictive Analytics<br>🚀 Open to internships, collaborations, and learning opportunities
 
 
